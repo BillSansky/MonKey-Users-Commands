@@ -1,0 +1,10 @@
+{
+  "name": "com.jungle.MonKeyUserCommands",
+  "displayName": "MonKey User Commands",
+  "version": "2020.1.0",
+  "unity":"2019.4",
+  "description": "A public git repository of user created MonKey Commands",
+  "author": {
+    "name": "Jungle"
+  }
+}
